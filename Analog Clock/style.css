@@ -6,8 +6,8 @@ body {
   .clock-dial {
     width: 500px;
     height: 500px;
-    border: 30px solid #630648;
-    background-image: linear-gradient(rgb(255, 62, 62), yellow);
+    border: 30px solid #2a5e6a;
+    background-image: linear-gradient(rgb(62, 255, 249), rgb(38, 0, 255));
     border-radius: 50%;
     margin: 0 auto;
     position: relative;
@@ -25,9 +25,9 @@ body {
   }
   
   .hour {
-    font-size: 30px;
+    font-size: 35px;
     font-weight: bold;
-    color: #630a48;
+    color: #63500a;
     position: absolute;
   }
   
